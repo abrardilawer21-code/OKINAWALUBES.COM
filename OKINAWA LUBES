@@ -1,0 +1,28 @@
+
+# OKINAWALUBES.COM
+
+Official website project for Okinawa Lubes, a professional lubricant brand.
+
+## Purpose
+The goal of this project is to create a responsive and modern website for Okinawa Lubes to showcase their products and services online.
+
+## Features
+- Responsive design for desktop and mobile
+- Product showcase section
+- Contact form
+- About us page
+- Smooth navigation and modern UI
+
+## Usage
+1. Download or clone this repository.
+2. Open `index.html` in your web browser.
+3. Edit files as needed to update content.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap (optional)
+
+## License
+MIT License
